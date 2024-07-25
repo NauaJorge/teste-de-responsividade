@@ -1,1 +1,1 @@
-Este é um projeto da Alura com teste de responsividade usando Html+CSS+Bootstrap
+Projeto desenvolvido usando HTML, CSS, Bootstrap 5.0
